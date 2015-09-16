@@ -23,7 +23,7 @@
   ],
   "dependencies": {
     "y-list": "git://github.com/y-js/y-list.git",
-    "yjs": "0.5",
+    "yjs": "a9c2ec6ba06071f690318fecc0350c6e5a2b141f",
     "y-test": "git://github.com/y-js/y-test.git#~0.4",
     "y-selections": "git://github.com/y-js/y-selections.git"
   }
